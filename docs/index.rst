@@ -20,6 +20,9 @@ Manage your assets in one app.
    <span style="padding: 10px 20px; color: #007a5e; text-decoration: underline;">More</span>
 
    </div>
+
+How to Install Trézor Suite?
+-----------------------------
    
 Installing **Trézor Suite** is simple:
 
