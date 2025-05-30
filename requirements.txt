@@ -1,0 +1,4 @@
+sphinx>=7.0.0
+furo>=2023.09.10
+sphinx-copybutton>=0.5.2
+sphinx-autobuild>=2021.3.14

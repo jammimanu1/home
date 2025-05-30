@@ -1,0 +1,16 @@
+/* Custom styles for the documentation */
+:root {
+    --trezor-green: #1c7b43;
+}
+
+.sidebar-brand-text {
+    font-weight: bold;
+}
+
+.sidebar-search-container {
+    margin: 1rem 0;
+}
+
+.toc-tree li {
+    margin: 0.5rem 0;
+}
