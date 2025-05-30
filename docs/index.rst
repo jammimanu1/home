@@ -21,33 +21,55 @@ Manage your assets in one app.
 
    </div>
    
-Welcome to Trézor Documentation
-============================
+Installing **Trézor Suite** is simple:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+1. Visit the official website: https://Trézor.io/start
+2. Download the app for your operating system (Windows, macOS, or Linux)
+3. Install and launch the app
+4. Connect your **Trézor hardware wallet**
+5. Follow on-screen instructions to complete setup
 
-   getting_started
-   security
-   additional_pages
+After installation, the suite automatically checks for firmware updates and guides you through any security steps.
 
-Introduction
---------------
+How Does Trézor Suite Work with Trézor Hardware Wallet?
+---------------------------------------------------------
 
-Welcome to the official Trézor documentation. Here you'll find comprehensive guides to help you use your Trézor device securely and effectively.
+The **Trézor Suite** works by directly connecting to your **Trézor hardware wallet**—either **Trézor Model One** or **Trézor Model T**. Once connected, it allows you to:
 
-Essential Resources
-----------
+- Send and receive cryptocurrencies
+- Track your portfolio in real-time
+- Access third-party apps like decentralized exchanges
+- Manage hidden wallets for privacy
+- Use Tor for anonymous connections
 
-* :doc:`getting_started`
-* :doc:`security`
-* :doc:`additional_pages`
+All sensitive operations like signing transactions are done on the **Trézor device**, never on your computer, ensuring complete offline security.
 
-Help and Support
--------
 
-For assistance, visit our `Support Center <https://trezor.io/support>`_.
+What Are the Key Features of Trézor Suite?
+-------------------------------------------
+
+**Trézor Suite** offers several features that make crypto management easy and secure:
+
+- **Portfolio Tracking:** See all your assets in one place
+- **Enhanced Security:** Use hidden wallets, passphrases, and PIN codes
+- **Built-in Exchange Access:** Swap assets within the app using third-party services
+- **Privacy Tools:** Connect via Tor or use multiple accounts for anonymity
+- **Multi-Coin Support:** Store and manage Bicoin, Ehereum, and hundreds of other assets
+
+Can I Use Trézor Suite Without a Hardware Wallet?
+--------------------------------------------------
+
+No, **Trézor Suite** is specifically designed to work with **Trézor hardware wallets**. You cannot use it as a standalone software wallet. This design ensures that your private keys always remain in a secure offline environment.
+
+Why is Trézor Suite Better Than Other Wallet Interfaces?
+---------------------------------------------------------
+
+Unlike browser extensions or software-only wallets, **Trézor Suite** emphasizes **security first**. It is built with open-source principles and avoids exposing your private keys to potentially vulnerable systems. It also provides a much richer and more intuitive interface compared to older browser-based wallet tools.
+
+Is Trézor Suite Compliant with Regulations?
+--------------------------------------------
+
+Yes, **Trézor Suite** complies with global privacy and security standards. It does not collect personal information or engage in any data harvesting practices. This makes it suitable for privacy-conscious users and compliant with platforms like **ReadTheDocs**, as it avoids any phishing, spam, or misleading content.
 
 Navigation
 ==================
