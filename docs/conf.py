@@ -62,6 +62,12 @@ html_title = "Trézor Suite (Official) | Desktop & Web Crypto® Management"
 html_short_title = "Trézor Docs"
 language = 'en'
 
+# Meta tags for better SEO
+html_meta = {
+    "description": "Trézor Suite is your secure, all-in-one interface to manage cryptocurrencies with Trézor Hardware Wallet. Learn how to set up, connect, and secure your assets via desktop and web.",
+    "keywords": "Trézor Suite, Trézor Wallet, Trézor Bridge, Trézor.io/start, Hardware Wallet, Trézor Login"
+}
+
 # -- Add custom schema.org JSON-LD markup -----------------------------------
 
 def setup(app):
