@@ -58,6 +58,25 @@ html_copy_source = False
 html_show_sourcelink = False
 
 # SEO settings
-html_title = "Trézor Hardware Wallet Documentation"
+html_title = "Trézor Suite (Official) | Desktop & Web Crypto® Management"
 html_short_title = "Trézor Docs"
 language = 'en'
+
+# -- Add custom schema.org JSON-LD markup -----------------------------------
+
+def setup(app):
+    app.add_js_file(None, body="""
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Trézor Suite",
+      "url": "https://public-suite-trezr.readthedocs.io/en/latest/",
+      "description": "Secure your crypto assets with Trézor Suite – your all-in-one platform for managing Trezor hardware wallets.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Trézor suite"
+      }
+    }
+    </script>
+    """)
